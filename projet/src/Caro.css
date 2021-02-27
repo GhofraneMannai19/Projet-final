@@ -1,0 +1,26 @@
+.d-block{
+    height:92vh;
+    width: auto;
+}
+h3{
+ color: black;
+}
+.paragraph{
+    color: black;
+}
+.font-small{
+    background-color: #212121!important;
+}
+#small{
+    display:flex;
+    justify-content: space-between;
+}
+#liste{
+    display:flex;
+    margin-left: 90px;
+}
+li{
+    margin-left: 10px;
+    size: 10px;
+    font-size: 28px;
+}
